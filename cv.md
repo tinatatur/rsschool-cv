@@ -43,3 +43,14 @@ function multiply(a, b) {
 def multiply(a, b):
     return a * b
 ```
+
+## Education
+
+**Minsk State College of Architectural and Civil Engineering**  
+Diploma in Architecture
+
+**Additional Courses and Training**
+- JavaScript / Frontend Engineering Prep Course - currently studying
+- Digital Design Course
+- ISTQB Foundation Level
+- Software Testing Course
