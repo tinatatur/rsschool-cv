@@ -19,38 +19,9 @@ I enjoy finding issues before users do, turning messy workflows into clear test 
 
 Alongside QA, I’ve realized that I really enjoy coding, so now I’m starting this journey step by step and building a stronger technical foundation.
 
-- **JavaScript / Frontend Engineering Prep Course** - in progress
-
-## Skills
-
-### Testing & QA
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- End-to-End Testing
-- Smoke Testing
-- Usability Testing
-- API Testing
-- Web Testing
-- Mobile Testing
-- Test Planning
-- Test Case Design
-- Defect Reporting
-- Test Documentation
-
-### Tools & Technologies
-- Postman
-- Jira
-- Confluence
-- TestRail
-- SQL
-- Git / GitHub
-- Chrome DevTools
-- JMeter
-- JSON
-- XML
-- Markdown
-
-### Learning Now
-- JavaScript
-- Basic frontend development workflows
+| **Area** | **Skills** |
+|------|--------|
+| **Testing & QA** | Functional, Regression, Integration, End-to-End, Smoke, Usability, API, Web, Mobile |
+| **QA Practice** | Test Planning, Test Case Design, Defect Reporting, Test Documentation |
+| **Tools & Technologies** | Postman, Jira, Confluence, TestRail, SQL, Git/GitHub, Chrome DevTools, JMeter, JSON, XML, Markdown | 
+<br>
