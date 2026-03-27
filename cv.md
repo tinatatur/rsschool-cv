@@ -19,9 +19,10 @@ I enjoy finding issues before users do, turning messy workflows into clear test 
 
 Alongside QA, I’ve realized that I really enjoy coding, so now I’m starting this journey step by step and building a stronger technical foundation.
 
-| **Area** | **Skills** |
-|------|--------|
-| **Testing & QA** | Functional, Regression, Integration, End-to-End, Smoke, Usability, API, Web, Mobile |
-| **QA Practice** | Test Planning, Test Case Design, Defect Reporting, Test Documentation |
-| **Tools & Technologies** | Postman, Jira, Confluence, TestRail, SQL, Git/GitHub, Chrome DevTools, JMeter, JSON, XML, Markdown | 
-<br>
+## Skills
+
+**Testing & QA:** Functional, Regression, Integration, End-to-End, Smoke, Usability, API, Web, Mobile  
+**QA Practice:** Test Planning, Test Case Design, Defect Reporting, Test Documentation  
+**Tech Stack:** Postman, Jira, Confluence, TestRail, SQL, Git/GitHub, DevTools, JMeter, BrowserStack, JSON, XML  
+**Test Automation:** Playwright, GhostInspector, Postman/Newman  
+**Programming Languages:** Python (Basic)  
