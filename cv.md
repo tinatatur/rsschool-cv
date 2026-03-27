@@ -54,3 +54,9 @@ Diploma in Architecture
 - Digital Design Course
 - ISTQB Foundation Level
 - Software Testing Course
+
+## Languages
+
+**English:** B2  
+**Hungarian:** A2  
+**Russian:** Native
