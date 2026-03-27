@@ -11,4 +11,46 @@ Based in _Budapest, Hungary_
 **GITHUB** [GitHub](https://github.com/tinatatur)  
 **DISCORD** `tinatatur`
 
----
+## About Me
+
+Hi, I’m Kristina - a QA Engineer who genuinely likes making products cleaner, safer, and easier to trust.
+
+I enjoy finding issues before users do, turning messy workflows into clear test coverage, and being the person who keeps an eye on both quality and common sense. My background is mostly in complex B2B systems, integrations, business logic, and API testing. I’m curious, reliable, and not afraid of details. I like asking good questions, spotting risky areas early, and helping teams ship with fewer surprises.
+
+Alongside QA, I’ve realized that I really enjoy coding, so now I’m starting this journey step by step and building a stronger technical foundation.
+
+- **JavaScript / Frontend Engineering Prep Course** - in progress
+
+## Skills
+
+### Testing & QA
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- End-to-End Testing
+- Smoke Testing
+- Usability Testing
+- API Testing
+- Web Testing
+- Mobile Testing
+- Test Planning
+- Test Case Design
+- Defect Reporting
+- Test Documentation
+
+### Tools & Technologies
+- Postman
+- Jira
+- Confluence
+- TestRail
+- SQL
+- Git / GitHub
+- Chrome DevTools
+- JMeter
+- JSON
+- XML
+- Markdown
+
+### Learning Now
+- JavaScript
+- Basic frontend development workflows
