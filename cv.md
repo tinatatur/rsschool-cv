@@ -26,3 +26,20 @@ Alongside QA, I’ve realized that I really enjoy coding, so now I’m starting 
 **Tech Stack:** Postman, Jira, Confluence, TestRail, SQL, Git/GitHub, DevTools, JMeter, BrowserStack, JSON, XML  
 **Test Automation:** Playwright, GhostInspector, Postman/Newman  
 **Programming Languages:** Python (Basic)  
+
+## Code Examples
+
+### JavaScript
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+### Python
+
+```python
+def multiply(a, b):
+    return a * b
+```
