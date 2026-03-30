@@ -152,6 +152,23 @@ h3,
   border-right: none;
 }
 
+.blockCode pre {
+  margin: 0 0 20px;
+  padding: 16px 18px;
+  background-color: #e8e3e3;
+  border: 1px solid #c9bdbd;
+  border-left: 4px solid #857878;
+  border-radius: 4px;
+  overflow-x: auto;
+}
+
+.blockCode code {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #303030;
+}
+
 .footer {
   display: flex;
   justify-content: space-between;
