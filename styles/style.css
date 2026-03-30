@@ -152,6 +152,11 @@ h3,
   border-right: none;
 }
 
+.blockProjects li:last-child {
+  font-style: italic;
+  margin: 18px 0;
+}
+
 .blockCode pre {
   margin: 0 0 20px;
   padding: 16px 18px;
@@ -173,7 +178,7 @@ h3,
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 1px solid #a8a1a1;
+  border: 1px solid #9d9597;
   padding-top: 18px;
 }
 
